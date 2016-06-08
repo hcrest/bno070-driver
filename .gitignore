@@ -1,0 +1,12 @@
+# Emacs temp files
+*~
+\#*
+
+# Output files
+/STM32F4xx-Nucleo/
+/docs/
+*.pyc
+
+# Never check in HcBin files
+*.hcbin
+
